@@ -2,7 +2,8 @@
 ### Lab64 Object: Guess Result3
 บรรทัดที่มี * ให้ผลลัพธ์เป็นอะไร เพราะอะไร    
 ผลลัพท์ คือ John เพราะ console.log(this.name) this = user กลายเป็น console.log(user.name)   
-          value ของ user.name = 'John'
+          value ของ user.name = 'John'    
+หริณ มาเบ้า
 
 ```JavaScript
 let user = {
